@@ -7,4 +7,4 @@ To run the robot:
 2) execute the **dotnet run** command
 
 Example input:
-2<br/>10<br/>22<br/>E 1<br/>N 2
+<br/>2<br/>10<br/>22<br/>E 1<br/>N 2
